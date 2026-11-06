@@ -52,8 +52,8 @@ Vibemix-Studio combines **real-time hand tracking** with **audio synthesis and d
                    │
                    ▼
 ┌─────────────────────────────────────────┐
-│        React / TypeScript Interface     │
-│      Visualization and user controls   │
+│              React Interface            │
+│      Visualization and user controls    │
 └─────────────────────────────────────────┘
 ```
 
