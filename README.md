@@ -21,7 +21,7 @@ Vibemix-Studio combines **real-time hand tracking** with **digital signal proces
 ### JUCE Audio Engine
 
 - Real-time audio processing written in **C++**
-- DSP effect concepts including low-pass filtering, delay, pitch shifting, and reverb
+- DSP effect concepts including delay, pitch shifting, and reverb
 - Thread-safe communication between the OSC/network and audio threads
 
 ### Communication & Web Interface
