@@ -2,7 +2,7 @@
 
 > **An interactive music studio controlled by hand gestures**
 
-https://github.com/user-attachments/assets/b24ac466-168c-42a4-848d-6c32347708f5
+https://github.com/user-attachments/assets/c7f972bf-4191-4c76-b757-758f19fe3107
 
 Vibemix-Studio combines **real-time hand tracking** with **digital signal processing**, allowing you to use your hands to experiment with effects. Gestures detected through a camera are translated into OSC messages and mapped to audio parameters in a JUCE-based C++ engine.
 
