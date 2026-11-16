@@ -31,32 +31,6 @@ Vibemix-Studio combines **real-time hand tracking** with **audio synthesis and d
 
 ---
 
-## Architecture
-
-```text
-┌─────────────────────────────────────────┐
-│       Python / OpenCV / MediaPipe       │
-│     Camera input and gesture analysis   │
-└──────────────────┬──────────────────────┘
-                   │
-                   │ OSC / UDP
-                   │
-                   ▼
-┌─────────────────────────────────────────┐
-│          JUCE Audio Engine (C++)        │
-│                                         │
-│  OSC Receiver → Atomic Values           │
-│  Smoothed Parameters → DSP Effects      │
-│  Audio Output → Speakers                │
-└──────────────────┬──────────────────────┘
-                   │
-                   ▼
-┌─────────────────────────────────────────┐
-│              React Interface            │
-│      Visualization and user controls    │
-└─────────────────────────────────────────┘
-```
-
 ## Audio effects Ideas (to-be implemented)
 
 Vibemix-Studio can be used to experiment with effects such as:
