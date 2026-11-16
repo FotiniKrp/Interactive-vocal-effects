@@ -31,16 +31,7 @@ Vibemix-Studio combines **real-time hand tracking** with **digital signal proces
 
 ---
 
-## Audio effects Ideas (to-be implemented)
+## More audio effects to-be implemented
 
-Vibemix-Studio can be used to experiment with effects such as:
-
-- Underwater or muffled voice
-- Autotuned and robotic voice
-- Vintage radio or telephone effect
-- Choir and vocal-stacking effects
-- Glitch and loop-based vocal effects
-
----
 
 **Build music with movement. 🎵✨**
